@@ -1,0 +1,38 @@
+body{
+    background-color: wheat;
+      color: darkturquoise;
+      text-align: center;
+  }
+  h1{
+      display: inline-block;
+      width: 120px;
+      font-size: 50px;
+  }
+  .hidden{
+      display: hidden;
+  }
+  button{
+      border-radius: 50%;
+      margin-top: 30px;
+      width: 100px;
+      height: 100px;
+      background-color: darkkhaki;
+      color: red;
+      font-size: 25px;
+      border: 1px solid white ;
+  }
+  #h11{
+      padding-right: 200px;
+  }
+  .main{
+      background-color: dimgrey;
+      border: 2px solid black ;
+      margin-top: 200px;
+      border-radius: 30%;
+      width: 600px;
+      height: 410px;
+      margin-left: 330px;
+  }
+  button:hover{
+      background-color: darkturquoise;
+  }
